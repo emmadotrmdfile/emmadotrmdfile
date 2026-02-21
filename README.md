@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with github
 - 💬 Ask me about github
 - 📫 How to reach me: emmaghiz09@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: git/hub
 - ⚡ Fun fact: I love github
