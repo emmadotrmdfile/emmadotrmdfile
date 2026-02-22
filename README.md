@@ -7,6 +7,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/emmadotrmdfile/emmadotrmdfile/raw/main/cv.pdf" target="_blank"> Download my CV</a> | <a href="https://www.linkedin.com/in/emma-huizenga/">LinkedIn</a> | <a href="https://emmahuizenga.my.canva.site/">Website</a>
+  <a href="https://github.com/emmadotrmdfile/emmadotrmdfile/blob/main/cv.pdf" target="_blank"> View my CV</a> | <a href="https://www.linkedin.com/in/emma-huizenga/">LinkedIn</a> | <a href="https://emmahuizenga.my.canva.site/">Website</a>
 </div>
 
