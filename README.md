@@ -1,13 +1,9 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+<img src="https://github.com/emmadotrmdfile/emmadotrmdfile/img/welcome.png" alt="Welcome" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-to my personal GitHub profile!
+to my GitHub page!
 </div>
 
 <h3 align="center">
