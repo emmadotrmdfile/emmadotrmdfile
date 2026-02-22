@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/emmadotrmdfile/emmadotrmdfile/img/welcome.png" alt="Welcome" align="center">
+<img src="https://github.com/emmadotrmdfile/emmadotrmdfile/images/welcome.png" alt="Welcome" align="center">
 </div>
 
 <div align="center">
