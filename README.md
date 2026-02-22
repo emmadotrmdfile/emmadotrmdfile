@@ -1,10 +1,17 @@
-## Hello my name is Emma
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-- 🔭 I’m currently working on github
-- 🌱 I’m currently learning how to use github
-- 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with github
-- 💬 Ask me about github
-- 📫 How to reach me: emmaghiz09@gmail.com
-- 😄 Pronouns: git/hub
-- ⚡ Fun fact: I love github
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+<h3 align="center">
+<a href="https://emmahuizenga.my.canva.site/">Visit my personal homepage
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
