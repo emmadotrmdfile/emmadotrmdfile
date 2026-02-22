@@ -1,13 +1,12 @@
 <div align="center">
-<img src="https://github.com/emmadotrmdfile/emmadotrmdfile/images/welcome.png" alt="Welcome" align="center">
+  <img src="https://raw.githubusercontent.com/emmadotrmdfile/emmadotrmdfile/main/images/welcome.png" alt="Welcome" align="center" width="400"/>
 </div>
 
 <div align="center">
-to my GitHub page!
+  Hello world! My name is Emma and I am an aspiring social scientist focused on reproductive justice and gender justice. Here I have my most recent projects, along with a few of my first!
 </div>
 
-<h3 align="center">
-<a href="https://emmahuizenga.my.canva.site/">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
+<div align="center">
+  [Download my CV](cv.pdf) | <a href="https://www.linkedin.com/in/emmahuizenga">LinkedIn</a> | <a href="https://emmahuizenga.my.canva.site/">Website</a>
+</div>
+
